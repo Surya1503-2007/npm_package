@@ -1,0 +1,8 @@
+{
+  "name": "fixture-config-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "my-ignored-pkg": "^1.0.0",
+    "real-pkg": "^1.0.0"
+  }
+}

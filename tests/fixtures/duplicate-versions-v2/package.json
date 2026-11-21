@@ -1,0 +1,8 @@
+{
+  "name": "fixture-duplicates-v2",
+  "version": "1.0.0",
+  "dependencies": {
+    "pkg-one": "^1.0.0",
+    "pkg-two": "^1.0.0"
+  }
+}

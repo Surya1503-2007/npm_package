@@ -1,0 +1,7 @@
+{
+  "only": ["unused", "size"],
+  "threshold": "1mb",
+  "top": 5,
+  "ignore": ["my-ignored-pkg"],
+  "failOn": "unused"
+}

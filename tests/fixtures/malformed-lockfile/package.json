@@ -1,0 +1,7 @@
+{
+  "name": "fixture-malformed-lockfile",
+  "version": "1.0.0",
+  "dependencies": {
+    "foo": "^1.0.0"
+  }
+}

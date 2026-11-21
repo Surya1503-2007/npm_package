@@ -1,0 +1,11 @@
+export * from './types.js';
+export { runAudit } from './runner.js';
+export { resolveOptions, loadConfigFile } from './utils/config.js';
+export { checkUnusedDependencies } from './checks/unused.js';
+export { checkPackageSizes } from './checks/size.js';
+export { checkDuplicates } from './checks/duplicates.js';
+export { formatTerminalReport } from './reporter/terminal.js';
+export { formatJsonReport } from './reporter/json.js';
+export { formatBytes, parseSize } from './utils/format.js';
+export { getAlternativeSuggestion, ALTERNATIVES_MAP } from './utils/alternatives.js';
+export { parseLockfileDuplicates } from './utils/lockfile.js';

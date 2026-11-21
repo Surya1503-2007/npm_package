@@ -1,0 +1,23 @@
+{
+  "name": "fixture-false-positives",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsup",
+    "lint": "eslint .",
+    "test": "vitest",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-react": "^7.34.0",
+    "prettier": "^3.0.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^3.0.0"
+  }
+}

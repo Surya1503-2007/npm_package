@@ -1,0 +1,8 @@
+{
+  "name": "fixture-duplicates-v3",
+  "version": "1.0.0",
+  "dependencies": {
+    "module-a": "^1.0.0",
+    "module-b": "^1.0.0"
+  }
+}
