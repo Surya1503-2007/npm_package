@@ -1,6 +1,6 @@
 # @surya1503/repo-audit
 
-[![CI](https://github.com/surya/repo-audit/actions/workflows/ci.yml/badge.svg)](https://github.com/surya/repo-audit/actions)
+[![CI](https://github.com/Surya1503-2007/npm_package/actions/workflows/ci.yml/badge.svg)](https://github.com/Surya1503-2007/npm_package/actions)
 [![npm version](https://img.shields.io/npm/v/@surya1503/repo-audit.svg)](https://www.npmjs.com/package/@surya1503/repo-audit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 

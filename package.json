@@ -4,6 +4,14 @@
   "description": "Production-grade CLI tool to audit JavaScript and TypeScript repositories for unused dependencies, oversized packages, and duplicate versions.",
   "author": "Surya",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surya1503-2007/npm_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Surya1503-2007/npm_package/issues"
+  },
+  "homepage": "https://github.com/Surya1503-2007/npm_package#readme",
   "publishConfig": {
     "access": "public"
   },
